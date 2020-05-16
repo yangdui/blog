@@ -18,6 +18,7 @@
 ## Vue源码分析
   Vue 版本是2.6，主要参考：[Vue.js 技术揭秘](https://ustbhuangyi.github.io/vue-analysis/), [Vue技术内幕](http://caibaojian.com/vue-design/art/1start-learn.html)。
   感谢。
+  
   [Vue 源码分析（构造函数）](https://github.com/yangdui/blog/issues/11)
   
   [Vue 源码分析（_init 函数）](https://github.com/yangdui/blog/issues/12)
@@ -31,7 +32,8 @@
   [Vue 源码分析（组件渲染）](https://github.com/yangdui/blog/issues/16)
 ## React源码分析
 React 版本是v16，主要参考：[剖析 React 源码](https://zhuanlan.zhihu.com/p/64858764), [Deep In React 之浅谈 React Fiber 架构（一）](https://www.jianshu.com/p/19d97000cd83),[完全理解React Fiber](http://www.ayqy.net/blog/dive-into-react-fiber/),[React的调度-v16](https://que01.top/2019/08/28/v16-Scheduling-in-React/), [[译] 深入解析React中state和props更新](https://juejin.im/post/5cdcc18af265da03537902f2),[React16源码解析(四)-Scheduler](https://segmentfault.com/a/1190000020737020?utm_source=tag-newest), [React Fiber源码分析 第三篇（异步状态）](https://www.cnblogs.com/Darlietoothpaste/p/9852849.html),以及其他。
-感谢
+感谢。
+
   [React 源码解析： render 流程 ](https://github.com/yangdui/blog/issues/17)
   
   [渲染流程 （函数）](https://github.com/yangdui/blog/issues/18)
