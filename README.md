@@ -47,5 +47,10 @@ React 版本是v16，主要参考：[剖析 React 源码](https://zhuanlan.zhihu
   [React 源码解析：合成事件](https://github.com/yangdui/blog/issues/20)
   
   [React 源码解析：commit 流程](https://github.com/yangdui/blog/issues/21)
-## Promise（浏览器事件队列）
+## Promise
+
+[理解Promise ](https://github.com/yangdui/blog/issues/25)
+## 浏览器
+
+[理解 Event loops（浏览器）](https://github.com/yangdui/blog/issues/24)
 ## 网络
