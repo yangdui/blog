@@ -14,6 +14,10 @@
   
   [理解 DOM](https://github.com/yangdui/blog/issues/10)
 ## 理解Node.js
+
+[setTimeout/setImmediate](https://github.com/yangdui/blog/issues/22)
+
+[Event Loop（事件循环）](https://github.com/yangdui/blog/issues/23)
   
 ## Vue源码分析
   Vue 版本是2.6，主要参考：[Vue.js 技术揭秘](https://ustbhuangyi.github.io/vue-analysis/)， [Vue技术内幕](http://caibaojian.com/vue-design/art/1start-learn.html)。
